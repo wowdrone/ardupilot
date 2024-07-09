@@ -1,3 +1,2 @@
 include ../Pixhawk1/hwdef.dat
 
-define AP_CUSTOM_FIRMWARE_STRING "Paper_pixhwak_pro"
